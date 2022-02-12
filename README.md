@@ -5,3 +5,5 @@ Control order of headers in Emacs Rmail messages buffer by setting
 Commentary section in source code:
 
 https://github.com/ir33k/rmail-ordered-headers/blob/master/rmail-ordered-headers.el#L23
+
+![demo.gif](demo.gif)
