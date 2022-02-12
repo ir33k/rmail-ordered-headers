@@ -5,7 +5,7 @@
 ;; Author: irek <mail@gumen.pl>
 ;; URL: https://github.com/ir33k/rmail-ordered-headers
 
-;; This file is part of display-key.
+;; This file is part of rmail-ordered-headers.
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
